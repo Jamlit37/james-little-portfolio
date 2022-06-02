@@ -1,0 +1,25 @@
+
+* {
+    box-sizing: none;
+  }
+  
+  body {
+    font-family: Arial;
+    margin: 0;
+  }
+  
+  main {
+    display: none;
+    flex-wrap: nowrap;
+    margin-top: 0%;
+  }
+  .main-header {
+    display: none;
+    flex-wrap: nowrap;
+    justify-content: none;
+    color: #fff;
+  }
+  
+  html {
+    scroll-behavior: none;
+  }
